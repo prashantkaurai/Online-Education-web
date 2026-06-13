@@ -16,13 +16,12 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Why Choose Us</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+                Access high-quality courses from any device, at any time. Whether you're at home, at work, 
+                or on the go, learning is always within reach.
+                Access high-quality courses from any device, at any time. Whether you're at home, at work, or on the go, learning is always within reach.
+                Engage with quizzes, assignments, live sessions, and hands-on projects that help you understand concepts more effectively.
+                Get assistance whenever you need it through our dedicated support team, ensuring a smooth and productive learning journey.
+                Earn recognized certificates upon course completion to showcase your skills and strengthen your professional profile.
               </p>
             </div>
           </Col>
@@ -30,11 +29,7 @@ const ChooseUs = () => {
           <Col lg="6" md="6">
             <div className="choose__img">
               {showVideo ? (
-                <ReactPlayer
-                  url="https://www.youtube.com/watch?v=qFp27TR4Yew"
-                  controls
-                  width="100%"
-                  height="350px"
+                <ReactPlayer url="https://www.youtube.com/watch?v=qFp27TR4Yew" controls width="100%" height="350px"
                 />
               ) : (
                 <img src={chooseImg} alt="" className="w-100" />
@@ -42,10 +37,7 @@ const ChooseUs = () => {
 
               {!showVideo && (
                 <span className="play__icon">
-                  <i
-                    class="ri-play-circle-line"
-                    onClick={() => setShowVideo(!showVideo)}
-                  ></i>
+                  <i class="ri-play-circle-line" onClick={() => setShowVideo(!showVideo)} ></i>
                 </span>
               )}
             </div>
