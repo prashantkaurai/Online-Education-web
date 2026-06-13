@@ -20,9 +20,12 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                Welcome to our Online Education Platform, where learning meets innovation. 
+                Our mission is to make quality education accessible, engaging, and affordable for learners everywhere.
+                We provide a modern digital learning environment designed to help students, professionals, and 
+                lifelong learners achieve their goals through interactive courses, expert-led 
+                instruction, and flexible learning schedules. Whether you want to develop new 
+                skills, advance your career, or explore new subjects, our platform offers a seamless learning experience tailored to your needs.
               </p>
 
               <div className="about__counter">
