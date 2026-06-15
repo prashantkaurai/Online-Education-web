@@ -45,9 +45,9 @@ const Courses = () => {
               <div className="course__top__left w-50">
                 <h2>Our Popular Courses</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                  Discover our most popular courses crafted to help you gain practical 
+                  skills, earn valuable certifications, and achieve your career goals. 
+                  Learn from expert instructors through engaging lessons, real-world projects, and flexible online learning.
                 </p>
               </div>
 
