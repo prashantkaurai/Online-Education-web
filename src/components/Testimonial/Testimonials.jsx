@@ -35,14 +35,13 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        "The course materials are well-structured, easy to understand, and packed 
+                        with practical examples. They made learning enjoyable and effective."
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Shekhar</h6>
+                        <p>Madhay Pradesh, India</p>
                       </div>
                     </div>
                   </div>
@@ -53,14 +52,13 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        "Excellent study resources with clear explanations and up-to-date content. 
+                        The materials helped me gain confidence in every topic."
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Mrs.Geeta Rao</h6>
+                        <p>Delhi, India</p>
                       </div>
                     </div>
                   </div>
@@ -71,14 +69,13 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        "The quality of the course content exceeded my expectations. 
+                        Each lesson is detailed, engaging, and designed for real-world application."
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Mr.Raja </h6>
+                        <p>Rohtak, India</p>
                       </div>
                     </div>
                   </div>
