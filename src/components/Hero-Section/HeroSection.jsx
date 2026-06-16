@@ -14,9 +14,10 @@ const HeroSection = () => {
                 Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+                Take control of your education with flexible learning that fits your lifestyle.</br> 
+                Access courses from any device, at any time, and learn at your own pace.</br> 
+                Whether you're a student, professional, or lifelong learner, our </br> platform makes it 
+                easy to gain new skills whenever and wherever it suits you.
               </p>
             </div>
             <div className="search">
